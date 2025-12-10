@@ -1,4 +1,4 @@
-[Welcome to the saami-flagg-qpi!](https://github.com/barionleg/saami-flagg-qpi/wiki/Home)
+[Welcome to the saami-flagg-qpi!](https://github.com/barionleg/saami-flagg-qpi/blob/gh-pages/README.md)
 
 
 # EXAMPLE: SAAMI FLAGg
