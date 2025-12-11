@@ -1,4 +1,4 @@
-## [Welcome to the saami-flagg-qpi шiki!](https://github.com/barionleg/saami-flagg-qpi/wiki)
+## [Welcome to the saami-flagg-qpi шiki too!](https://github.com/barionleg/saami-flagg-qpi/wiki)
 
 # Quant ⚻ qpi_☰_3.142857142857143 relaterad Sami Flag
 
