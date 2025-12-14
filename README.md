@@ -28,7 +28,7 @@ The official green colour is Pantone 356C, which corresponds fairly accurately t
 
 The official red colour is Pantone 485C, which corresponds fairly accurately to the digital colours: R:220  G:36  B:31  C:8  M:98  Y:100  K:1
 
-<img width="800" height="645" alt="Samisk_flag_info" src="https://github.com/user-attachments/assets/fa151961-192e-47fb-a8b7-40a80d5405a6" />
+![Samisk_flag20info787988_o](https://github.com/user-attachments/assets/82c90db1-ffbe-435d-91b5-65e1b64b6846)
 
 ___
 ___
@@ -38,12 +38,6 @@ ___
 Röd sidan är 255 pixels 
 
 <img width="878" height="615" alt="image" src="https://github.com/user-attachments/assets/cb4398a9-dd81-4902-8b19-c05ab30267c7" />
-
-# Nytt mitt mått enligt qpi (Pi_HARMONISKT)
-
-<img width="550" height="445" alt="mitt_mått" src="https://github.com/user-attachments/assets/a8b41953-d2ac-482f-9ea9-ed83eabeefdb" />
-
-<img width="800" height="645" alt="image" src="https://github.com/user-attachments/assets/d9823e77-f468-42d5-a80b-a878e9d119b8" />
 
 
 ___
